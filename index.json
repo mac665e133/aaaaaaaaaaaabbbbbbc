@@ -1,0 +1,21 @@
+{
+    "版本号": "21.0",
+    "更新地址": "https://www.ownbox.cn/#/s/KdBhr",
+    "公告内容": "1、由于视频来源网络，部分无法下载属于正常现象，移动看片会卡 推荐电信或联通，已修复视频分类问题",
+    "更新内容": "1.新增收藏\n2.完善短视频\n优化首页加载速度\n手动更新地址www.ownbox.cn/#/s/KdBhr\n遇到无法安装新版本请尝试卸载旧版本后再安装新版本",
+    "更新方式": "0",
+    "直播平台接口": "http://api.hclyz.com:81/mf/json.txt",
+    "直播主播接口": "http://api.hclyz.com:81/mf/",
+    "直播地址广告屏蔽": "bo.killingpush.com——rr.mcedd500.com",
+    "直播标题广告屏蔽": "幼女——乱伦——怀孕——玉女——约炮——老虎机",
+    "api1": "https://app.caoppht.com/ybwbconfig.php",
+    "api2": "https://app.caoppht.com/ybwbconfig.php",
+    "pbapi": "永久官网:caopp.app",
+    "tab": "https://api.ffudingdang.com/leixing.php?t=",
+    "启动页广告图": "https://p.qlogo.cn/qqmail_head/ibQttPRWzrFFTfrfamlIBZKlc1CfQlAnHHdDibcyIIUKtQz9ak3LUibTjjicgAx8zD3icE9gADkZmOx8/0",
+    "启动页广告地址": "http://990.dfh4g84f56.com:1888/990.html",
+    "短视频接口地址": "https://rrm.pchj.net/api.php/app/index_video?tid=1",
+    "appbt": "颜色,一款看片、约炮、逛红灯区的APP",
+    "appdz": "https://www.zkvb5l98.com/aff/?inviteCode=YMOJ",
+    "apptb": "https://www.zkvb5l98.com/img/logo.png"
+}
